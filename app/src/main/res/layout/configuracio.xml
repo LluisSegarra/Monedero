@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/Configuracio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="24sp"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="@string/ingressos_fixes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ingressos_fixes"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:text="@string/despeses_fixes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/despeses_fixes"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="@string/dades_personals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/DadesPersonals"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="@string/estalvi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/estalvi"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:text="@string/Notificacions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/notificacions"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monedero</string>
+    <string name="Benvinguda">Benvingut a l\'applicació que t\'ajudara a controlar els teus gastos</string>
+    <string name="Començar">Comencem</string>
+    <string name="Configuracio">Configuració</string>
+    <string name="ingressos_fixes">Ingressos Fixes</string>
+    <string name="despeses_fixes">Despeses Fixes</string>
+    <string name="dades_personals">Dades Personals</string>
+    <string name="estalvi">Estalvi</string>
+    <string name="Notificacions">Notificacions</string>
+</resources>
